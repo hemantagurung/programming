@@ -37,3 +37,15 @@ public class SquareOfTheNumber
        System.out.println("the square number of a is "+b);
     }
 } 
+
+
+public class FarenheitToCelcius
+{
+    public static void main(String [] args)
+    {
+        float Farenheit,Celcius;
+        Farenheit = 99;
+        Celcius = ((Farenheit-32)*5)/9;
+        System.out.println("Temperature in Celcius is;" +Celcius);
+    }
+}
