@@ -49,3 +49,21 @@ public class FarenheitToCelcius
         System.out.println("Temperature in Celcius is;" +Celcius);
     }
 }
+
+
+public class AreaAndPerimeterOfCircle
+{
+   public static void main(String []args)
+   {
+       int radius;
+       double pi = 22/7 , area, perimeter;
+       radius=7; 
+        
+       area = pi * radius * radius;  //calculating the area of the circle
+       System.out.println("Area of the Circle is :" +area);
+       
+       perimeter = 2 * pi * radius;  //calcutaing the perimeter of circle
+       System.out.println("perimeter of the circle is :" +perimeter);
+       
+   }
+    }
