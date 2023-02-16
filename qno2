@@ -13,7 +13,6 @@ public class MyClass3
     }
 
 
-
 public class AreaOfRectangle
 {
    public static void main(String[] args)
@@ -26,3 +25,15 @@ public class AreaOfRectangle
        
    }
 }
+
+
+public class SquareOfTheNumber
+{
+   public static void main(String []args)
+   {
+       double a=3.9; // double because it is decimal number
+       double b=a*a;
+       
+       System.out.println("the square number of a is "+b);
+    }
+} 
