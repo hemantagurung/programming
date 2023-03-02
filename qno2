@@ -63,7 +63,7 @@ public class AreaAndPerimeterOfCircle
        System.out.println("Area of the Circle is :" +area);
        
        perimeter = 2 * pi * radius;  //calcutaing the perimeter of circle
-       System.out.println("perimeter of the circle is :" +perimeter);
+       System.out.println("perimeter of the circle is :" +perimeter)
        
    }
     }
