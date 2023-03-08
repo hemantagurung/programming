@@ -74,7 +74,7 @@ public class SwappingTwoVariables
     public static void main(String[] args)
     {
         int a=6;
-        int b=7
+        int b=7;
         
         int temp=a;
         a=b;
